@@ -1,4 +1,4 @@
-# CopyGen Replica - Prototipo de Landing Page de Servicios Profesionales
+# Prototipo de Landing Page de Servicios Profesionales
 
 Este es un proyecto de Front-End moderno construido con **Next.js 15 (App Router)**, **React 19** y **Tailwind CSS 4**. La aplicación es una réplica de una landing page de servicios profesionales (enfocada en redacción de currículums y optimización de perfiles), diseñada para demostrar habilidades avanzadas en maquetación, manejo de estado y diseño responsivo.
 
